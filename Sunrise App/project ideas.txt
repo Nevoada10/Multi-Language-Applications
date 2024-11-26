@@ -1,0 +1,8 @@
+my_sunrise_app/
+├── main.py       # Your Python backend
+|─ functions.py
+├── static/       # For CSS and JavaScript files
+│   ├── style.css
+│   ├── script.js
+├── templates/    # For HTML templates
+│   ├── index.html
